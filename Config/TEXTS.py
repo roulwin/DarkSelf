@@ -157,7 +157,7 @@ And also send ` None ` to remove the word.
 📩 Answer: `{answer}`'''
             
             self.setting=lambda emoji , type_model , contacts , text_only , login , chat_model , defend , delsaver , chatsaver , randbio ,attack , spy , pvlock , gplock , a_j , a_p , answering , clean , read , reaction , wel , love , card , lchannel , mchannel , mainbio , clerk :f'''
-🪩 dev : @amiralirj_official 
+🪩 dev : Naloxone 
 
 Type model: {type_model}
 Only contacts: {emoji(contacts)}
@@ -189,9 +189,8 @@ Language : ENGLISH
 
 🪩 dev: https://www.github.com/amiralirj
 '''
-            self.help = '''★ TELEGRAM POWERFULL MANAGER ★ 
-🪩 DEV : https://www.github.com/amiralirj 
-🪩 DEV : @amiralirj_official 
+            self.help = '''★ TELEGRAM POWERFULL MANAGER ★  
+🪩 DEV : Naloxone 
 🔴 key sections (on | off)   
 
 ♦︎read `on' or `off'
@@ -332,8 +331,7 @@ Language : ENGLISH
 `block`
 `unblock`
 `mydel` delete all outgoing messages 
-🪩 DEV : https://www.github.com/amiralirj 
-🪩 DEV : @amiralirj_official 
+🪩 DEV : Naloxone 
 '''
 
 #-------------------------------------------------------------------------------------------------------------------------------------
@@ -457,7 +455,7 @@ none : سلام
             📩 پاسخ : `{answer}`'''
             
             self.setting=lambda emoji , type_model , contacts , text_only , login , chat_model , defend , delsaver , chatsaver , randbio ,attack , spy , pvlock , gplock , a_j , a_p , answering , clean , read , reaction , wel , love , card , lchannel , mchannel , mainbio , clerk :f'''
-🪩 dev : @amiralirj_official 
+🪩 dev : Naloxone 
 
 مدل تایپ : {type_model}
 فقط کانتکت ها : {emoji(contacts)}
@@ -487,7 +485,7 @@ none : سلام
 حالت منشی : {clerk}
 زبان : فارسی 
 
-🪩 dev : https://www.github.com/amiralirj
+🪩 dev : Naloxone
 '''
             self.help = '''★ TELEGRAM POWERFULL MANAGER ★ 
 🪩 DEV : https://www.github.com/amiralirj 
@@ -634,8 +632,7 @@ none : سلام
 `block`
 `unblock`
 `mydel` پاکسازی تمامی پیام های خود
-🪩 DEV : https://www.github.com/amiralirj 
-🪩 DEV : @amiralirj_official 
+🪩 DEV : Naloxone 
 '''
 
 
